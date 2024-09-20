@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 850px;
+  background-color: #1f1f1f;
+  flex-direction: column;
+}
+
+h1 {
+  color: white;
+  margin-top: 60px;
+  font-size: 45px;
+  position: fixed;
+  top: 0;
+}
+
+.cronometro {
+  text-align: center;
+  color: white;
+}
+
+.tempo {
+  font-size: 52px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 10px;
+  background-color: #949494;
+}
